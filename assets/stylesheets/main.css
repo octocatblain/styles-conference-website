@@ -74,10 +74,21 @@ Rows
 */
 .row {
   background: #fff;
-  min-width: 960px;
   padding: 66px 0 44px 0;
 }
 
+.row,
+.row-alt {
+  min-width: 960px;
+}
+
+.row-alt {
+  background: #cbe2c1;
+  background: -webkit-linear-gradient(to right, #50d778, #f7e686);
+  background: -moz-linear-gradient(to right, #50d778, #f7e686);
+  background: linear-gradient(to right, #50d778, #f7e686);
+  padding: 44px 0 22px 0;
+}
 /* 
 ================================
 Typography
@@ -140,19 +151,6 @@ Home Page
   font-weight: 100;
 }
 
-button.btn#back-to-top {
-  float: right;
-  border: 1px solid #00a6ed;
-  background: #00a6ed;
-  padding: 5px;
-  border-radius: 100px;
-  letter-spacing: 0;
-}
-button.btn#back-to-top a {
-  text-decoration-line: none !important;
-  text-align: center;
-}
-
 .teaser a:hover h3 {
   color: #a9b2b9;
 }
@@ -206,6 +204,21 @@ Primary Footer
   font-variant: small-caps;
 }
 
+button.btn#back-to-top {
+  float: right;
+  border: 1px solid #00a6ed;
+  background: #00a6ed;
+  padding: 5px;
+  border-radius: 100px;
+  letter-spacing: 0;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+button.btn#back-to-top a {
+  text-decoration-line: none !important;
+  text-align: center;
+}
+
 /* 
 ================================
 Custom Styles
@@ -215,6 +228,7 @@ body {
   font: 300 16px/22px Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   background-color: #254054;
   color: #888;
+  margin: 0 0 0 0;
 }
 
 h1,
@@ -304,109 +318,3 @@ Navigation
 .nav {
   text-align: right;
 }
-
-/* 
-
-header {
-  margin-top: -2%;
-  margin-bottom: 2%;
-}
-
-.nav {
-  display: flex;
-  justify-content: center;
-}
-
-.nav a {
-  margin-right: 3%;
-  text-decoration-line: none;
-  color: rgb(102, 102, 255);
-  font-family: Georgia, "Times New Roman", Times, serif;
-  font-size: large;
-}
-
-header h1 {
-  text-align: center;
-}
-
-header h1 a {
-  text-decoration-line: none !important;
-  margin-bottom: 2%;
-  margin-right: 5%;
-  text-align: center;
-  font-family: "Times New Roman", Times, serif;
-  color: goldenrod;
-}
-
-header h5 {
-  text-align: center;
-  font-family: "Times New Roman", Times, serif;
-  color: white;
-  font-style: italic;
-}
-
-section#details h4 {
-  color: goldenrod;
-}
-
-p {
-  font-size: 18px;
-}
-
-p#text {
-  font-family: "Times New Roman", Times, serif;
-}
-
-.btn {
-  border-radius: 5px;
-  font-family: "Times New Roman", Times, serif;
-  border: none;
-  padding: 5px;
-  font-weight: bold;
-  cursor: pointer;
-}
-
-.btn-primary {
-  color: white;
-  background: rgb(45, 45, 220);
-}
-
-.btn-danger {
-  background: rgb(220, 45, 45);
-}
-
-.btn-success {
-  background: rgb(85, 220, 85);
-}
-
-footer {
-  display: flex;
-  justify-content: center;
-  margin: 2rem;
-}
-
-footer small {
-  margin-right: 3%;
-}
-
-footer a {
-  text-decoration: dotted;
-  color: blue;
-  margin-right: 3%;
-}
-
-
-
-.heading {
-  text-decoration-line: none;
-}
-
-.sub-heading {
-  color: chartreuse;
-  font-size: 14px;
-  font-style: italic;
-}
-
-section#detail section a {
-  text-decoration-line: none !important;
-} */
