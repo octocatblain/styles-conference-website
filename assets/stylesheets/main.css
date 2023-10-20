@@ -358,3 +358,15 @@ Speakers
   padding: 22px 0;
   text-align: center;
 }
+
+.speaker {
+  margin-bottom: 44px;
+}
+
+.speaker-info li {
+  list-style: none;
+}
+
+.speaker-info ul {
+  padding-inline-start: 0px;
+}
