@@ -307,13 +307,13 @@ p a {
   border-bottom: 1px solid #dfe2e5;
 }
 
-.primary-nav a {
+/* .primary-nav a {
   margin-left: 15px;
 }
 
 .primary-footer a {
   margin-left: 15px;
-}
+} */
 
 .primary-header a,
 .primary-footer a {
@@ -333,4 +333,14 @@ Navigation
 
 .nav {
   text-align: right;
+}
+
+.nav li {
+  display: inline-block;
+  margin: 0 10px;
+  vertical-align: top;
+}
+
+.nav li:last-child {
+  margin-right: 0;
 }
