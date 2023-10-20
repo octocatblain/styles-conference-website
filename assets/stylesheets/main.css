@@ -89,6 +89,7 @@ Rows
   background: linear-gradient(to right, #50d778, #f7e686);
   padding: 44px 0 22px 0;
 }
+
 /* 
 ================================
 Typography
@@ -101,6 +102,21 @@ h4,
 h5,
 p {
   margin-bottom: 22px;
+}
+
+/* 
+================================
+Leads
+================================ 
+*/
+
+.lead {
+  text-align: center;
+}
+
+.lead p {
+  font-size: 21px;
+  line-height: 33px;
 }
 
 /* 
@@ -227,7 +243,7 @@ Custom Styles
 body {
   font: 300 16px/22px Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   background-color: #254054;
-  color: #888;
+  color: #5c5a5a;
   margin: 0 0 0 0;
 }
 
@@ -235,7 +251,7 @@ h1,
 h2,
 h3,
 h4 {
-  color: #648880;
+  color: #427a6e;
 }
 
 h1 {
