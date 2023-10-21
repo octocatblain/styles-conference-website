@@ -248,7 +248,8 @@ Custom Styles
 ================================ 
 */
 body {
-  font: 300 16px/22px Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font: 300 16px/22px "Lato", Cambria, Cochin, Georgia, Times, "Times New Roman",
+    serif;
   background-color: #254054;
   color: #5c5a5a;
   margin: 0 0 0 0;
