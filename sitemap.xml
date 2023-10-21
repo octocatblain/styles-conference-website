@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://www.styles-conference-huxrv1cj4-blain-muemas-projects.vercel.app</loc>
+		<priority>1.00</priority>
+		<lastmod>2023-10-21</lastmod>
+	</url>
+	<url>
+		<loc>https://www.styles-conference-huxrv1cj4-blain-muemas-projects.vercel.app/venue.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2023-10-21</lastmod>
+	</url>
+	<url>
+		<loc>https://www.styles-conference-huxrv1cj4-blain-muemas-projects.vercel.app/speaker.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2023-10-21</lastmod>
+	</url>
+	<url>
+		<loc>https://www.styles-conference-huxrv1cj4-blain-muemas-projects.vercel.app/schedule.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2023-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://www.styles-conference-huxrv1cj4-blain-muemas-projects.vercel.app/register.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2023-10-21</lastmod>
+	</url>
+</urlset>
