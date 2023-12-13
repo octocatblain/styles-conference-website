@@ -6,22 +6,23 @@
 
 </div>
 
-![prootype](https://learn.shayhowe.com/assets/images/courses/html-css/adding-media/practice-1a.png)
+![prototype](https://learn.shayhowe.com/assets/images/courses/html-css/adding-media/practice-1a.png)
 
 ## Description :pen:
 
-This website is a Learn to Code HTML & CSS Practice website from _Learn to Code HTML & CSS_ that is a simple and comprehensive guide dedicated to helping beginners learn HTML and CSS.
+This website is a Practice website from [ _Learn to Code HTML & CSS_](https://learn.shayhowe.com) &mdash; [By Shay Howe](https://learn.shayhowe.com).
 
-Outlining the fundamentals, this guide works through all common elements of front-end design and development.
+Outlining the fundamentals, this website works through all common elements of front-end design and development.
 
-|                                 |                                    |
+| | |
+
 | ------------------------------- | ---------------------------------- |
 | ✅ Building Your First Web Page | ✅ Setting Backgrounds & Gradients |
-| ✅ Getting to Know HTML         | ✅ Creating Lists                  |
-| ✅ Getting to Know CSS          | ✅ Adding Media                    |
-| ✅ Opening the Box Model        | ✅ Building Forms                  |
-| ✅ Positioning Content          | ✅ Organizing Data with Tables     |
-| ✅ Working with Typography      | ✅ Writing Your Best Code          |
+| ✅ Getting to Know HTML | ✅ Creating Lists |
+| ✅ Getting to Know CSS | ✅ Adding Media |
+| ✅ Opening the Box Model | ✅ Building Forms |
+| ✅ Positioning Content | ✅ Organizing Data with Tables |
+| ✅ Working with Typography | ✅ Writing Your Best Code |
 
 ## Languages Used :pencil:
 
