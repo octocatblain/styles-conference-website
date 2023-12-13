@@ -6,9 +6,14 @@
 		<lastmod>2023-10-21</lastmod>
 	</url>
 	<url>
-		<loc>https://www.styles-conference-huxrv1cj4-blain-muemas-projects.vercel.app/venue.html</loc>
+		<loc>https://www.styles-conference-huxrv1cj4-blain-muemas-projects.vercel.app/register.html</loc>
 		<priority>0.50</priority>
-		<lastmod>2023-10-21</lastmod>
+		<lastmod>2023-12-13</lastmod>
+	</url>
+	<url>
+		<loc>https://www.styles-conference-huxrv1cj4-blain-muemas-projects.vercel.app/schedule.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2023-12-13</lastmod>
 	</url>
 	<url>
 		<loc>https://www.styles-conference-huxrv1cj4-blain-muemas-projects.vercel.app/speaker.html</loc>
@@ -16,12 +21,7 @@
 		<lastmod>2023-10-21</lastmod>
 	</url>
 	<url>
-		<loc>https://www.styles-conference-huxrv1cj4-blain-muemas-projects.vercel.app/schedule.html</loc>
-		<priority>0.50</priority>
-		<lastmod>2023-10-19</lastmod>
-	</url>
-	<url>
-		<loc>https://www.styles-conference-huxrv1cj4-blain-muemas-projects.vercel.app/register.html</loc>
+		<loc>https://www.styles-conference-huxrv1cj4-blain-muemas-projects.vercel.app/venue.html</loc>
 		<priority>0.50</priority>
 		<lastmod>2023-10-21</lastmod>
 	</url>
