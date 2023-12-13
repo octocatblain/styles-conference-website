@@ -3,6 +3,8 @@
 <div align="center">
 
 :bookmark:[Inspiration Website](https://learn.shayhowe.com/practice/adding-media/index.html) - [By Shay Howe](https://learn.shayhowe.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&mdash;&nbsp;&nbsp;&nbsp;&nbsp;
+[🔗Link to LIVE Website](https://styles-conference-five.vercel.app/)
 
 </div>
 
@@ -10,7 +12,7 @@
 
 ## Description :pen:
 
-This website is a Practice website from [ _Learn to Code HTML & CSS_](https://learn.shayhowe.com) &mdash; [By Shay Howe](https://learn.shayhowe.com).
+This website is a Practice website from [_Learn to Code HTML & CSS_](https://learn.shayhowe.com) &mdash; [By Shay Howe](https://learn.shayhowe.com).
 
 Outlining the fundamentals, this website works through all common elements of front-end design and development.
 
