@@ -14,18 +14,14 @@ This website is a Learn to Code HTML & CSS Practice website from _Learn to Code 
 
 Outlining the fundamentals, this guide works through all common elements of front-end design and development.
 
-- Building Your First Web Page
-- Getting to Know HTML
-- Getting to Know CSS
-- Opening the Box Model
-- Positioning Content
-- Working with Typography
-- Setting Backgrounds & Gradients
-- Creating Lists
-- Adding Media
-- Building Forms
-- Organizing Data with Tables
-- Writing Your Best Code
+|                                 |                                    |
+| ------------------------------- | ---------------------------------- |
+| ✅ Building Your First Web Page | ✅ Setting Backgrounds & Gradients |
+| ✅ Getting to Know HTML         | ✅ Creating Lists                  |
+| ✅ Getting to Know CSS          | ✅ Adding Media                    |
+| ✅ Opening the Box Model        | ✅ Building Forms                  |
+| ✅ Positioning Content          | ✅ Organizing Data with Tables     |
+| ✅ Working with Typography      | ✅ Writing Your Best Code          |
 
 ## Languages Used :pencil:
 
