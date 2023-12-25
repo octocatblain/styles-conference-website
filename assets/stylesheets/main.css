@@ -227,19 +227,38 @@ Primary Footer
   font-variant: small-caps;
 }
 
-button.btn#back-to-top {
-  float: right;
-  border: 1px solid #00a6ed;
-  background: #00a6ed;
-  padding: 5px;
-  border-radius: 100px;
-  letter-spacing: 0;
-  margin-top: 10px;
-  margin-right: 10px;
-}
-button.btn#back-to-top a {
-  text-decoration-line: none !important;
+/* back to top button */
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: block;
+  border: 1px solid #929df9;
+  border-radius: 50%;
+  color: #929df9;
+  width: 40px;
+  height: 40px;
   text-align: center;
+  line-height: 35px;
+  text-decoration: none;
+}
+
+.back-to-top:hover {
+  background: #3641a2;
+  border: 1px solid #ffffff;
+  border-radius: 50%;
+  transition: 0.2s;
+  transform: translateY(-5px);
+  transform-origin: (50%, 50%);
+}
+
+.back-to-top i {
+  font-size: 25px;
+  color: #929df9;
+}
+
+.back-to-top i:hover {
+  color: #ffffff;
 }
 
 /* 
